@@ -103,7 +103,8 @@ h4{
     grid-column: 6/9;
 }
 .welcome-img img{
-    width: 200%;
+    /* width: 200%; */
+    width: 90%;
 }
 .welcome-text a{
     margin: 20px 0;
